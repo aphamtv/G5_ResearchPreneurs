@@ -1,14 +1,12 @@
 ## Project Description
 
-This project aims to analyze the Twitter content of competitors to help ResearchPreneurs in developing their content marketing strategies. The approach is to identify the common topics that these companies usually talk about, and then see how well those topics perform based on the available metrics such as views, replies, and retweets. This information can then be used to inform RP's own content strategy, helping them to create content that is more likely to engage their audience and achieve their marketing goals.
+This project aims to analyze the Twitter content of competitors to help ResearchPreneurs in developing their content marketing strategies. The approach is to identify the common topics and recurring themes that these companies usually discuss, then assessing their effectiveness using accessible metrics like views, comments, and retweets. This data can subsequently be leveraged to shape RP's unique content approach, facilitating the creation of content that has a higher probability of resonating with their audience and meeting their marketing objectives.
 
-## Project Goals
+## Project Objectives
 
-The goals of this project are to:
-
-Identify the common topics that competitors talk about on Twitter.
+Identify common topics that competitors use for engagement on Twitter.
 Analyze the performance of these topics based on available metrics.
-Use this information to inform RP's own content strategy.
+Use this information to help ResearchPreneurs with their content strategy.
 
 ## Project Approach
 The project will be conducted in the following steps:
@@ -16,4 +14,4 @@ The project will be conducted in the following steps:
 2. Collect data on the competitors' Twitter activity.
 3. Analyze the data to identify common topics.
 4. Analyze the performance of these topics.
-4. Use the information to inform RP's content strategy.
+4. Use the information to help ResearchPreneurs create engaging and relevant content.
