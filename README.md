@@ -14,3 +14,5 @@ The project will be conducted in the following steps:
 3. Analyze the data to identify common topics.
 4. Analyze the performance of these topics.
 4. Use the information to help Researchpreneurs create engaging and relevant content.
+
+Github Repo: https://github.com/aphamtv/G5_ResearchPreneurs
